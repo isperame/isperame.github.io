@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://isperame.github.io/sitemap.html.gz
+Sitemap: https://isperame.github.io/app/sitemap.html.gz
+Sitemap: https://isperame.github.io/assets/sitemap.html.gz
+Sitemap: https://isperame.github.io/css/sitemap.html.gz
+Sitemap: https://isperame.github.io/includes/sitemap.html.gz
+Sitemap: https://isperame.github.io/item/sitemap.html.gz
+Sitemap: https://isperame.github.io/src/sitemap.html.gz
